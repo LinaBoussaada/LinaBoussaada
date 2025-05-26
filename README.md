@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋, I'm Lina Boussaad.</h2>
+<h2 align="center">Hi 👋, I'm Lina Boussaada.</h2>
 
 ###
 
