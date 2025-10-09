@@ -6,7 +6,7 @@
 
 ###
 
-<h5 align="left">🌱 I'm currently exploring application and network security<br>👨‍💻 All of my projects are available at https://github.com/LinaBoussaada?tab=repositories<br>📫 How to reach me bsdlina2@mail.com</h5>
+<h5 align="left">Passionate about Machine Learning, currently developing and experimenting with LLMs, Transformers, and advanced Deep Learning models.<br> All of my projects are available at https://github.com/LinaBoussaada?tab=repositories<br> How to reach me bsdlina2@mail.com</h5>
 
 ###
 
